@@ -1,0 +1,24 @@
+input:checked ~ img {
+  opacity: 0;
+}
+img {
+  transition: 2s;
+}
+li {
+  color: rgb(38, 82, 2);
+  font-style: oblique;
+}
+h3 {
+  color: blueviolet;
+}
+th,
+td {
+  text-align: left;
+}
+body {
+  background-color: rgb(247, 230, 209);
+}
+
+.ky_nang {
+  list-style: none;
+}
